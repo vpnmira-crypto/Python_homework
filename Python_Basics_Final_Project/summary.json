@@ -1,0 +1,39 @@
+{
+  "loaded_orders": 28,
+  "skipped_rows": 2,
+  "completed_orders": 24,
+  "cancelled_orders": 4,
+  "total_revenue": 74510.0,
+  "average_revenue": 3104.58,
+  "revenue_by_category": {
+    "electronics": 53300.0,
+    "books": 4860.0,
+    "home": 6650.0,
+    "clothing": 9700.0
+  },
+  "revenue_by_city": {
+    "Kyiv": 42940.0,
+    "Lviv": 11150.0,
+    "Odesa": 5050.0,
+    "Kharkiv": 14400.0,
+    "Dnipro": 970.0
+  },
+  "monthly_revenue": {
+    "2026-09": 55040.0,
+    "2026-10": 19470.0
+  },
+  "top_3_products": [
+    [
+      "laptop",
+      32000.0
+    ],
+    [
+      "headphones",
+      8400.0
+    ],
+    [
+      "monitor",
+      7800.0
+    ]
+  ]
+}
